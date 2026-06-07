@@ -26,6 +26,8 @@ Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about m
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 [![CodeIgniter](https://img.shields.io/badge/codeigniter_3-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/nicewin221)<br/>
